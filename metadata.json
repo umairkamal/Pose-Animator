@@ -1,0 +1,5 @@
+{
+  "name": "Pose Animator AI",
+  "description": "An application to upload a character image, draw a new pose on an artboard, and use AI to apply the pose to the character. It can then generate a short animation of the resulting image.",
+  "requestFramePermissions": []
+}

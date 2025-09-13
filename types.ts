@@ -1,0 +1,9 @@
+
+export enum AppState {
+  IDLE,
+  GENERATING_IMAGE,
+  IMAGE_READY,
+  GENERATING_VIDEO,
+  VIDEO_READY,
+  ERROR,
+}
